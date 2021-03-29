@@ -1,0 +1,11 @@
+body{
+    width: 422px;
+    height: 794px;
+    margin: 0;
+}
+.testpic{
+    border: 1px solid;
+    color: darkturquoise;
+    width: 420px;
+    height: 792px;
+}
